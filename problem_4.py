@@ -54,12 +54,3 @@ print(max(list))
 
     
         
-
-
-
-
-
-# get the lasrgest value and find teh digits
-
-
-# make it genertic for any number n
