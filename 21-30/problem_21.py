@@ -28,6 +28,6 @@ for i in range (1,10000):
     
     if (i != result1) & (i == result2) & (result1 != 1): # i = 9
         result += result1 + result2
-        print(result)
-
+        
+final_result = result/2
 
